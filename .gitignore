@@ -1,0 +1,7 @@
+﻿# 数据集与中间产物不入库
+datasets/
+runs/**/weights/
+__pycache__/
+*.pyc
+.idea/
+.vscode/

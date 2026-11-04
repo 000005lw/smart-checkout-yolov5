@@ -1,0 +1,4 @@
+﻿*.param -text
+*.pt -text
+*.csv text eol=lf
+*.md text eol=lf
